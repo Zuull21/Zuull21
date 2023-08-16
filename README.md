@@ -8,6 +8,8 @@ JS
 CSS
 HTML
 MySQL
+Kotlin
+Python
 
 ✉️email for contact julio.dahi@sptech.school
 
