@@ -2,6 +2,9 @@
 - I'm a student from SPTECH 1°SIS-A
 - My English is avarege
 - I Love Cats
+- 
+![Zuull21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuull21&theme=midnight-purple&show_icons=true) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuull21&layout=donut&theme=midnight-purple)](https://github.com/Zuull21/github-readme-stats)
 
 ⌨️Languages I'm learning:
 
