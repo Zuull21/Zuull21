@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @Zuull21
 - I'm a student from SPTECH 1°SIS-A
-- My English is avarage
+- My English is avarege
 - I Love Cats
 - 
 ![Zuull21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuull21&theme=midnight-purple&show_icons=true) <br>
