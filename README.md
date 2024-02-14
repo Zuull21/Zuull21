@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @Zuull21
-- I'm a student from SPTECH 1°SIS-A
+- I'm a student from SPTECH 2°SIS-A
 - My English is avarege
 - I Love Cats
 - 
