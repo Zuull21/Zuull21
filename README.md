@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @Zuull21
-- I'm a student from SPTECH 2°SIS-A
+- I'm a student from SPTECH 3°SIS-A
 - My English is avarege
 
 ![Zuull21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuull21&theme=midnight-purple&show_icons=true) <br>
