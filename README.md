@@ -36,7 +36,8 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-✉️email for contact julio.dahi@sptech.school
+✉️email for contact juliocesardahi@hotmail.com
+
 
 
 <!---
